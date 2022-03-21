@@ -1,0 +1,6 @@
+{
+  "API_KEY": "Enter 2Captcha API Key Here",
+  "FIRST_NAME": "Enter the name you prefer with each account (leave blank if you would like a random name)",
+  "LAST_NAME": "Enter the name you prefer with each account (leave blank if you would like a random name)",
+  "PASSWORD": "Enter the password you prefer with each account (leave blank if you would like a random password)"
+}
